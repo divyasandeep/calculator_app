@@ -1,0 +1,26 @@
+
+body {
+  background-color:lightblue;
+}
+
+#addition {
+    background-color: #4CAF50; /* Green */
+    }
+#substraction {
+    background-color:  #FFFF00; /* Yellow */
+    }
+#multiply {
+    background-color: #FFA500; /* Orange */
+    }
+#divide {
+    background-color: #FF0000; /* Red */
+    }
+        
+#body1 {
+    background-color: white;
+    width: 300px;
+    border: 15px solid pink;
+    padding: 50px;
+    margin: 20px;
+  }
+ 
