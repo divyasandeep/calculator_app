@@ -1,15 +1,23 @@
-    
-    
+
+   h1 {
+    border-bottom-style: solid;
+    border-bottom-color: coral;
+  }
+  
+  div {
+    border-style: solid;
+    border-bottom-color: rgb(255, 0, 0);
+  }
     * {
         font-family: 'Inconsolata', monospace;
         color: #00008B;
     }
     body {
-        background-color: #3fb399;
+        background-color: hsl(167, 48%, 47%);
     }
     .container {
         width: 320px;
-        background-color: white;
+        background-color: rgb(255, 255, 255);
         margin: 120px auto;
     }
     table {
